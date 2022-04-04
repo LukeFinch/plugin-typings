@@ -1336,6 +1336,7 @@ interface TextStyle extends BaseStyle {
   paragraphIndent: number
   paragraphSpacing: number
   textCase: TextCase
+  listSpacing: number
 }
 
 interface EffectStyle extends BaseStyle {
